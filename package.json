@@ -1,0 +1,23 @@
+{
+  "name": "threejs_rookie",
+  "version": "1.0.0",
+  "description": "GO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aad61404/threeJS_rookie.git"
+  },
+  "author": "aad61404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aad61404/threeJS_rookie/issues"
+  },
+  "homepage": "https://github.com/aad61404/threeJS_rookie#readme",
+  "dependencies": {
+    "three": "^0.148.0"
+  },
+  "type": "module"
+}
